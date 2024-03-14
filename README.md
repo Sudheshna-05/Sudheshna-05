@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sudheshna-05
+- 👋 Hi, I’m Sudheshna
 - 👀 I’m interested in new things
 - 🌱 I’m currently learning python full stack
 - 💞️ I’m looking to collaborate on new project
